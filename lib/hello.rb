@@ -17,7 +17,7 @@ end
 =end
 
 =begin
-  I followed the instructions in the lab, but never got any of the tests to path
+  I followed the instructions in the lab, but never got any of the tests to pass
   This lesson failed me. The only thing I learned about yielding was that
   I am going to go out of my way to avoid using the yield keyword
   until I get a better opportunity to learn about it. Unfortunately I don't have time
